@@ -1,4 +1,4 @@
-# Loto JS
+# Loto JS & PHP
 
 Script simple en JavaScript qui permet de générer une grille du loto.
 
